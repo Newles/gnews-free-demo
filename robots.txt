@@ -1,0 +1,1 @@
+Sitemap: https://newles.github.io/gnews-free-demo/sitemap.xml
